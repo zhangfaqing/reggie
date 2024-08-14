@@ -41,7 +41,7 @@ public class LoginCheckFilter implements Filter{
                 "/user/sendMsg",
                 "/user/login",
                 "/text/**",
-                "/"
+
         };
 
         //2、判断本次请求是否需要处理
